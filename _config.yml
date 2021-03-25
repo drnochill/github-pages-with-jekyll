@@ -1,3 +1,4 @@
+theme: minima
 title: Tradespotting Deep Learning
 author: Drnochill
 email: no need for my email, punk
@@ -9,4 +10,3 @@ twitter_username: _Jamie_Curran
 github_username:  Drnochill
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
